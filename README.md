@@ -1,42 +1,51 @@
-<h1 align="center">👋 Hi Brothers! I'm Patrizk1</h1>
+<h1 align="center">👋 Hello! I'm Patrizk1</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Code+hard,+deploy+harder;Vue+%2B+Go+is+🔥;Backend+or+frontend+–+I+build+both!" alt="Typing SVG" />
+  <i>"Clean code, bold life — let’s build something legendary."</i>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 💬 I craft fullstack apps using modern tech: Vue + TS + Go + Gin.  
-- 🎯 Obsessed with clean architecture, reusability & dev experience.  
-- ⚙️ DevOps mindset — automation, Docker, CI/CD are my jam.  
-- 🎨 UI guy? Yep. Backend ninja? Also yep.
+- 🚀 **Mission**: Craft impactful digital products that solve real-world pain points.  
+- 💻 **Expertise**: Fullstack dev – Vue 3 + TypeScript + Go + Gin.  
+- ⚙️ **DevOps Mindset**: Automation, CI/CD, containers — all day, everyday.  
+- 🌟 **Philosophy**: Elegant code. Resilient systems. Strong coffee.  
+- 🔥 **Motto**: Code fast, love slow, commit often.
 
 ---
 
-### 🛠 My Tech Arsenal
+### ⚡ Tech Stack & Tools
+
+**Frontend:**  
+Vue 3, TypeScript, Element Plus, Vite, Tailwind CSS  
+
+**Backend:**  
+Go, Gin, RESTful APIs, gRPC  
+
+**Database:**  
+PostgreSQL, MongoDB, Redis  
+
+**DevOps & Cloud:**  
+Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)  
+AWS, GCP, Azure  
+
+**Tools:**  
+Git, Postman, VS Code, Figma
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,typescript,element,go,gin,docker,linux,aws,php,laravel,nginx,postgres" />
+  <img src="https://skillicons.dev/icons?i=vue,typescript,go,gin,docker,kubernetes,postgres,mongodb,redis,githubactions,aws,gcp,azure" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://facebook.com/patrizk1">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
+- 🐙 GitHub: [github.com/Patrizk1](https://github.com/Patrizk1)  
+- 🐦 X: [twitter.com/your-x-profile](https://twitter.com/your-x-profile)
 
 ---
 
@@ -49,13 +58,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Patrizk1&style=flat-square&color=brightgreen" alt="profile views" />
-</p>
+### 🚀 Featured Projects
+
+- 🔧 **Project Name 1**:  
+  Fullstack app built with Vue + TypeScript frontend & Go + Gin backend, CI/CD via Docker.  
+  👉 [GitHub Repo](#)
+
+- 📊 **Project Name 2**:  
+  Real-time data dashboard using Element Plus UI & high-performance Go APIs.  
+  👉 [GitHub Repo](#)
 
 ---
 
 <p align="center">
-  ⚡ Life is short, commit often.<br/>
-  ✨ Made with caffeine, terminal rage, and Vue magic.
+  ✨ Powered by: Black coffee, strict TypeScript, and minimalist Go ⚡
 </p>
