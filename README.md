@@ -5,29 +5,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Code+hard,+deploy+harder;Automate+everything;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Code+hard,+deploy+harder;Vue+%2B+Go+is+🔥;Backend+or+frontend+–+I+build+both!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 💬 I love solving real-world problems with clean and scalable code.  
-- 🛠 Currently focused on backend, cloud, and containerization.  
-- ⚙️ Strong believer in DevOps culture and automation.
+- 💬 I craft fullstack apps using modern tech: Vue + TS + Go + Gin.  
+- 🎯 Obsessed with clean architecture, reusability & dev experience.  
+- ⚙️ DevOps mindset — automation, Docker, CI/CD are my jam.  
+- 🎨 UI guy? Yep. Backend ninja? Also yep.
 
 ---
 
-### ⚡ Tech Stack & Tools
+### 🛠 My Tech Arsenal
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,typescript,element,go,gin,docker,linux,aws,php,laravel,nginx,postgres" />
 </p>
 
 ---
@@ -35,8 +30,12 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/patrizk1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/patrizk1">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -58,5 +57,5 @@
 
 <p align="center">
   ⚡ Life is short, commit often.<br/>
-  ✨ Made with caffeine, shell scripts, and Laravel magic.
+  ✨ Made with caffeine, terminal rage, and Vue magic.
 </p>
