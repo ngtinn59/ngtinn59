@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Patrizk1</h1>
+<h1 align="center">👋 Hello brothers! I'm @ngtinn59</h1>
 
 <p align="center">
   <i>"Clean code, bold life — let’s build something legendary."</i>
