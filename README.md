@@ -35,7 +35,7 @@ AWS, GCP, Azure
 Git, Postman, VS Code, Figma
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,typescript,go,gin,docker,kubernetes,postgres,mongodb,redis,githubactions,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=vue,typescript,go,docker,kubernetes,postgres,mongodb,redis,githubactions,aws,gcp,azure" />
 </p>
 
 ---
