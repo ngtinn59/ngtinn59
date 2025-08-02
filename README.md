@@ -42,32 +42,9 @@ Git, Postman, VS Code, Figma
 
 ### 🔗 Connect With Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
-- 🐙 GitHub: [github.com/Patrizk1](https://github.com/Patrizk1)  
-- 🐦 X: [twitter.com/your-x-profile](https://twitter.com/your-x-profile)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrizk1&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrizk1&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- 🔧 **Project Name 1**:  
-  Fullstack app built with Vue + TypeScript frontend & Go + Gin backend, CI/CD via Docker.  
-  👉 [GitHub Repo](#)
-
-- 📊 **Project Name 2**:  
-  Real-time data dashboard using Element Plus UI & high-performance Go APIs.  
-  👉 [GitHub Repo](#)
-
+- 📧 Email: [ngtin590@gmail.com](mailto:ngtin590@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ngtin5900]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/ngtin5900/))  
+- 🐙 GitHub: [github.com/ngtinn59](https://github.com/ngtinn59)  
 ---
 
 <p align="center">
