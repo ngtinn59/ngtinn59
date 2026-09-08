@@ -69,9 +69,13 @@ fun_fact:  "It works on my machine" is not a deployment strategy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ngtinn59&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=1F6FEB" height="165" alt="stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtinn59&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="top langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngtinn59&theme=github_dark" width="94%" alt="profile summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngtinn59&theme=github_dark" height="200" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngtinn59&theme=github_dark" height="200" alt="most used languages"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngtinn59&theme=github_dark" height="200" alt="repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ngtinn59&theme=github_dark&utcOffset=7" height="200" alt="productive time"/>
 
 </div>
 
@@ -81,20 +85,52 @@ fun_fact:  "It works on my machine" is not a deployment strategy
 ## &nbsp;Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ngtinn59/Real-Time-Chat-Golang-Vue">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtinn59&repo=Real-Time-Chat-Golang-Vue&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Real-Time Chat"/>
-</a>
-<a href="https://github.com/ngtinn59/qr-svg-sanitizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtinn59&repo=qr-svg-sanitizer&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="QR SVG Sanitizer"/>
-</a>
-<a href="https://github.com/ngtinn59/erp_api-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtinn59&repo=erp_api-main&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="ERP API"/>
-</a>
-<a href="https://github.com/ngtinn59/offline-sync-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtinn59&repo=offline-sync-app&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Offline Sync App"/>
-</a>
+### [Real-Time-Chat-Golang-Vue](https://github.com/ngtinn59/Real-Time-Chat-Golang-Vue)
 
+Realtime chat over WebSocket — Go backend, Vue frontend.
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/ngtinn59/Real-Time-Chat-Golang-Vue?style=flat-square&color=1f6feb&labelColor=0D1117"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [qr-svg-sanitizer](https://github.com/ngtinn59/qr-svg-sanitizer)
+
+Validates third-party QR SVGs and adds a quiet-zone viewBox so CSS scales instead of crops. Zero dependencies.
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/ngtinn59/qr-svg-sanitizer?style=flat-square&color=1f6feb&labelColor=0D1117"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [erp_api-main](https://github.com/ngtinn59/erp_api-main)
+
+ERP backend API in Go — clean architecture, PostgreSQL, Docker-first.
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/ngtinn59/erp_api-main?style=flat-square&color=1f6feb&labelColor=0D1117"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [offline-sync-app](https://github.com/ngtinn59/offline-sync-app)
+
+Offline-first sync experiment — conflict resolution and queued writes in Go.
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/ngtinn59/offline-sync-app?style=flat-square&color=1f6feb&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
