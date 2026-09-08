@@ -41,24 +41,35 @@ fun_fact:  "It works on my machine" is not a deployment strategy
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="150"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=go,ts,js,php,html,css&theme=dark" alt="languages"/></td>
-</tr>
-<tr>
-<td align="center"><b>Frameworks</b></td>
-<td><img src="https://skillicons.dev/icons?i=vue,nuxtjs,nodejs,laravel,tailwind,vite&theme=dark" alt="frameworks"/></td>
-</tr>
-<tr>
-<td align="center"><b>Data &amp; Infra</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux&theme=dark" alt="infra"/></td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" alt="tools"/></td>
-</tr>
-</table>
+<sub><b>LANGUAGES</b></sub>
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,php,html,css&theme=dark" alt="languages"/>
+
+<sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub>
+
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,nodejs,laravel,tailwind,vite&theme=dark" alt="frameworks"/>
+
+<sub><b>DATA &amp; INFRASTRUCTURE</b></sub>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux&theme=dark" alt="infrastructure"/>
+
+<sub><b>TOOLING</b></sub>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" alt="tooling"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
 </div>
 
@@ -69,10 +80,14 @@ fun_fact:  "It works on my machine" is not a deployment strategy
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ngtinn59/ngtinn59/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3d contribution graph"/>
+
+<img src="https://streak-stats.demolab.com?user=ngtinn59&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="180" alt="commit streak"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngtinn59/ngtinn59/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngtinn59/ngtinn59/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/ngtinn59/ngtinn59/output/github-snake.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/ngtinn59/ngtinn59/output/github-snake.svg" width="94%" alt="contribution snake"/>
 </picture>
 
 </div>
