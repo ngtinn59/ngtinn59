@@ -1,4 +1,4 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ==================== HEADE1R ==================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=210&section=header&text=Nguyen%20Thanh%20Tin&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Fullstack%20Developer%20%C2%B7%20Go%20%C2%B7%20Vue%20%C2%B7%20TypeScript&descAlignY=56&descSize=17&animation=fadeIn" width="100%" alt="header"/>
